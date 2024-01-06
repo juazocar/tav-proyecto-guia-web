@@ -1,0 +1,14 @@
+
+p {
+   color: red; 
+}
+
+
+/*Este estilo afecta a los parrafos  */
+#parrafo {
+    color: blue;
+}
+
+.parrafo {
+    color: green;
+}
