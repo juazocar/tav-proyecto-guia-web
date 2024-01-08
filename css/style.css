@@ -23,7 +23,16 @@
     padding-left: 20%;
 }
 
+.tabla-mascotas-detalle {
+   padding-top: 20%;
+}
+
 .link-mascotas {
     padding-left: 50px;
+}
+
+.div-navegacion {
+    width: 100%;
+    text-align: right;
 }
 
